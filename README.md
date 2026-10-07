@@ -154,10 +154,10 @@ Create a `.env` file in the project root based on `.env.example`:
 
 ## 8. Live Deployment URL
 
-### 🌟 Primary Production Deployment:
-👉 **[https://upa-ai-dev.netlify.app/](https://upa-ai-dev.netlify.app/)**
+### Primary Production Deployment:
+**[https://upa-ai-dev.netlify.app/](https://upa-ai-dev.netlify.app/)**
 
-### 🔑 Evaluation Access Credentials:
+### Evaluation Access Credentials:
 - **1-Click Super Admin Access:** Click the **`🚀 1-Click Enter as Super Admin (diudevcis)`** button on the sign-in page.
 - **Manual Credentials:**
   - **Username / Identifier:** `diudevcis`
@@ -206,4 +206,4 @@ npm run test:innovations
 
 - **Md. Fahad (`@fahad3235`)** — Lead System Developer
 - **Md. Muhsinul Islam (`@muhsinulmuin`)** — Product Manager, Technical Documentation & Pitch Lead
-- **Shihab Sarker (`@Shihab-617`)** — AI Product Strategist (DIU Student ID: `262-16-050`)
+- **Shihab Sarker (`@Shihab-617`)** — AI Product Strategist
