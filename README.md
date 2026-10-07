@@ -202,7 +202,7 @@ npm run test:innovations
 
 ---
 
-## 👥 Hackathon Team Members
+##  Hackathon Team Members
 
 - **Md. Fahad (`@fahad3235`)** — Lead System Developer
 - **Md. Muhsinul Islam (`@muhsinulmuin`)** — Product Manager, Technical Documentation & Pitch Lead
